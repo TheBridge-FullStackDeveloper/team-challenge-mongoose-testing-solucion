@@ -33,7 +33,7 @@ La estructura será la siguiente:
 1. Configuración
 - Lo primero es inicializar nuestro proyecto de node
 - Lo segundo es hacer npm install para instalar las dependencias de package.json
-- Crearemos un servidor http con express en app.js
+- Crearemos un servidor http con express en index.js
 
 2. Paso a paso 
 - Comenzaremos a manejar los módulos y solo introduciremos lo necesario en cada uno de ellos. No se debe requerir nada que no se vaya a usar.
