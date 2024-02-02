@@ -8,7 +8,7 @@ La estructura será la siguiente:
 - env
   - .env // Aquí debe ir la MONGO_URI que nos da mongoDB Atlas
 - models
-  - Post.js // Aqui ira el modelo de la tarea con los campos title, completed y los timestamps.
+  - Post.js // Aqui ira el modelo de la publicación con los campos title, body y los timestamps.
 - routes 
   - posts.js // Aquí estarán todas las rutas
 - index.js // Añadiremos nuestro servidor, conexión a la base de datos y uniremos el resto de la aplicación
